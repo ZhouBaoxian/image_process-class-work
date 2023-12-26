@@ -1,0 +1,24 @@
+Unet++
+===>background:	Iou-93.51; Recall (equal to the PA)-93.75; Precision-99.73
+===>nidus:	Iou-45.14; Recall (equal to the PA)-95.44; Precision-46.13
+===> mIoU: 69.33; mPA: 94.6; Accuracy: 93.84
+
+SegNet
+===>background:	Iou-96.95; Recall (equal to the PA)-97.5; Precision-99.42
+===>nidus:	Iou-62.14; Recall (equal to the PA)-89.85; Precision-66.84
+===> mIoU: 79.55; mPA: 93.67; Accuracy: 97.09
+
+Deeplab v3
+===>background:	Iou-98.26; Recall (equal to the PA)-99.05; Precision-99.2
+===>nidus:	Iou-73.3; Recall (equal to the PA)-85.69; Precision-83.53
+===> mIoU: 85.78; mPA: 92.37; Accuracy: 98.34
+
+Unet
+===>background:	Iou-98.71; Recall (equal to the PA)-99.83; Precision-98.88
+===>nidus:	Iou-77.43; Recall (equal to the PA)-79.81; Precision-96.3
+===> mIoU: 88.07; mPA: 89.82; Accuracy: 98.77
+
+MySegNet
+===>background:	Iou-99.21; Recall (equal to the PA)-99.67; Precision-99.54
+===>nidus:	Iou-86.6; Recall (equal to the PA)-91.72; Precision-93.94
+===> mIoU: 92.9; mPA: 95.7; Accuracy: 99.25
